@@ -1,1 +1,1 @@
-# Browserify Calc
+# browserify-calc
